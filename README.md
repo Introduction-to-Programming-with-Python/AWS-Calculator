@@ -1,5 +1,9 @@
 # AWS Calculator
 
+## Statement
+
+[Document](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/Statement.pdf)
+
 ## Objectives
 
 This project aims to apply the following functionalities:
@@ -11,6 +15,6 @@ This project aims to apply the following functionalities:
 5. Test the functions of a module.
 6. Build console-based user interfaces.
 
-## Statement
+## How does it work?
 
-[Document](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/Statement.pdf)
+The [calculadora_aws.py](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/calculadora_aws.py) file contains a function for each requirement. The files that contain the word "consola" individually execute each functionality of the file [calculadora_aws.py](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/calculadora_aws.py) interacting with the user with messages, inputs and responses through the console.

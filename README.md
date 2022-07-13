@@ -1,6 +1,6 @@
 # AWS Calculator
 
-##Objectives
+## Objectives
 
 This project aims to apply the following functionalities:
 
@@ -11,6 +11,6 @@ This project aims to apply the following functionalities:
 5. Test the functions of a module.
 6. Build console-based user interfaces.
 
-##Statement
+## Statement
 
 [Document](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/Statement.pdf)

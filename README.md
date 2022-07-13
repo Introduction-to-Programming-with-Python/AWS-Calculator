@@ -2,7 +2,7 @@
 
 ## Statement
 
-[Document](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/Statement.pdf)
+This [document](https://github.com/Introduction-to-Programming-with-Python/AWS-Calculator/blob/main/Statement.pdf) contains the functionality for each file and function.
 
 ## Objectives
 
